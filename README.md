@@ -8,4 +8,4 @@ chromedriver.exe required for any above files to work (downloaded from https://c
   
 Usage:  
 For easy use, simply download the Facebook_Album_Scraper_GUI.exe and chromedriver.exe into the same directory on a Windows64 machine and run Facebook_Album_Scraper_GUI.exe  
-If you have a python environment set up, use 'python 'filename.py' in the terminal  
+If you have a python environment set up, use "python filename.py" in the terminal  
